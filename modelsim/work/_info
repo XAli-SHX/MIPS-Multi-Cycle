@@ -1,0 +1,539 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim
+vAdder
+Z0 !s110 1655297439
+!i10b 1
+!s100 H?RJ_b1__=gJ88<ohZ31:3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1iYK6jmkN^NJ6bcfem]583
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim
+Z4 w1655297416
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Adder.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Adder.v
+!i122 21
+L0 1 9
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1655297439.000000
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Adder.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@adder
+vAdderTB
+R0
+!i10b 1
+!s100 CUJloQmGP=:=<Gn;^WQgW1
+R1
+IeWQohF;EbT7hNlf5mCi:S1
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/AdderTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/AdderTB.v
+!i122 22
+Z9 L0 1 26
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/AdderTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/AdderTB.v|
+!i113 1
+R7
+R8
+n@adder@t@b
+vAlu
+Z10 !s110 1655297440
+!i10b 1
+!s100 9SHc19DL7oV0UoY6:^[k>2
+R1
+ISigNTQjH0k^]Tz^h9nA@10
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Alu.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Alu.v
+!i122 23
+Z11 L0 1 25
+R5
+r1
+!s85 0
+31
+Z12 !s108 1655297440.000000
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Alu.v|
+!i113 1
+R7
+R8
+n@alu
+vAluController
+R10
+!i10b 1
+!s100 O33BWFae>1Uk<Fe_5fAX73
+R1
+I1L?c97E1N;2QHnJIgHUcE0
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/AluController.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/AluController.v
+!i122 24
+R11
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/AluController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/AluController.v|
+!i113 1
+R7
+R8
+n@alu@controller
+vAluTB
+R10
+!i10b 1
+!s100 UTVOL1VT`BE5of7h_z?:l0
+R1
+I`@c;M:Y9N2R7J9K^BiQ?^2
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/AluTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/AluTB.v
+!i122 25
+L0 1 27
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/AluTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/AluTB.v|
+!i113 1
+R7
+R8
+n@alu@t@b
+vInstructionMemory
+R10
+!i10b 1
+!s100 ai]`OoTXhUn]7fXOAmC:61
+R1
+I75hKAEG^MQ@eGY8SPU;:]1
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/InstructionMemory.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/InstructionMemory.v
+!i122 26
+Z13 L0 1 15
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/InstructionMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/InstructionMemory.v|
+!i113 1
+R7
+R8
+n@instruction@memory
+vInstructionMemoryTB
+R10
+!i10b 1
+!s100 o^KSGTee4NKfnbR_00H=N3
+R1
+I6ZdEgN;i4h9_3]lKN^HGR0
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/InstructionMemoryTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/InstructionMemoryTB.v
+!i122 27
+L0 1 30
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/InstructionMemoryTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/InstructionMemoryTB.v|
+!i113 1
+R7
+R8
+n@instruction@memory@t@b
+vMemory
+R10
+!i10b 1
+!s100 ;GYP2;28iC4@0n>M];InQ0
+R1
+I@cdl^[7jolPSGfT@m=fbN2
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Memory.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Memory.v
+!i122 28
+L0 1 23
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Memory.v|
+!i113 1
+R7
+R8
+n@memory
+vMemoryTB
+R10
+!i10b 1
+!s100 =g5mG=^g;l:d92lKeW9zR0
+R1
+IXUE=[<U;S<D_E:8Q8cmh=0
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MemoryTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MemoryTB.v
+!i122 29
+L0 1 37
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MemoryTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MemoryTB.v|
+!i113 1
+R7
+R8
+n@memory@t@b
+vMips
+R10
+!i10b 1
+!s100 XB7FO@CO3IMQoIR0I4F:T0
+R1
+IJ8H6CL`KClAQMV3ikMfdF0
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mips.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mips.v
+!i122 30
+L0 1 55
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mips.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mips.v|
+!i113 1
+R7
+R8
+n@mips
+vMipsController
+R10
+!i10b 1
+!s100 X6I[o@dgjDg062li2cG@:1
+R1
+IK@BZ3YfV=9lUV<;H6O]ES0
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MipsController.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MipsController.v
+!i122 31
+L0 1 116
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MipsController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MipsController.v|
+!i113 1
+R7
+R8
+n@mips@controller
+vMipsDatapath
+R10
+!i10b 1
+!s100 ioz;z58F`B1l6i72Cg>[n1
+R1
+I9Kg89QQ0FR;SU:kzdD6V80
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MipsDatapath.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MipsDatapath.v
+!i122 32
+L0 1 61
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MipsDatapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MipsDatapath.v|
+!i113 1
+R7
+R8
+n@mips@datapath
+vMipsTB
+R10
+!i10b 1
+!s100 [jzFXZkgYGbYi:k[>gQFU2
+R1
+In=]]cF`MER8>B?QB^5m@^2
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MipsTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MipsTB.v
+!i122 33
+L0 1 20
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MipsTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/MipsTB.v|
+!i113 1
+R7
+R8
+n@mips@t@b
+vMux2
+Z14 !s110 1655297441
+!i10b 1
+!s100 3]@e2e7iQ;Mf_Fo4n68ec1
+R1
+IT`[P@QjXDj@mAf^CDPBXo0
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mux2.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mux2.v
+!i122 34
+L0 1 10
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mux2.v|
+!i113 1
+R7
+R8
+n@mux2
+vMux2TB
+R14
+!i10b 1
+!s100 ZP6o]dA?ng@flTDI17d721
+R1
+IQoPbV:fWjY_OZWlNUcngh3
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mux2TB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mux2TB.v
+!i122 35
+Z15 L0 1 16
+R5
+r1
+!s85 0
+31
+Z16 !s108 1655297441.000000
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mux2TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mux2TB.v|
+!i113 1
+R7
+R8
+n@mux2@t@b
+vMux4
+R14
+!i10b 1
+!s100 YPmHbTz^:;]zI^kCUAZG50
+R1
+Ih<YV=@g>==Y>eSoPiXX@B0
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mux4.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mux4.v
+!i122 36
+L0 1 14
+R5
+r1
+!s85 0
+31
+R16
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Mux4.v|
+!i113 1
+R7
+R8
+n@mux4
+vRegister
+R14
+!i10b 1
+!s100 dCPjCG^8WeLf0P<DHFKJ73
+R1
+I7M<ICGl_D[;fD;Bc>9jXF0
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Register.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Register.v
+!i122 37
+R13
+R5
+r1
+!s85 0
+31
+R16
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/Register.v|
+!i113 1
+R7
+R8
+n@register
+vRegisterFile
+R14
+!i10b 1
+!s100 YaV>`:kj7aO2`k3bGHA:j1
+R1
+IgG[I?C4C>zI_XBZaJEAo12
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/RegisterFile.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/RegisterFile.v
+!i122 38
+L0 1 19
+R5
+r1
+!s85 0
+31
+R16
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/RegisterFile.v|
+!i113 1
+R7
+R8
+n@register@file
+vRegisterFileTB
+R14
+!i10b 1
+!s100 neGW@C?eBzXOBFacNgo:=1
+R1
+I96feBKi48EnmE@WnC;99z2
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/RegisterFileTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/RegisterFileTB.v
+!i122 39
+R11
+R5
+r1
+!s85 0
+31
+R16
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/RegisterFileTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/RegisterFileTB.v|
+!i113 1
+R7
+R8
+n@register@file@t@b
+vRegisterTB
+R14
+!i10b 1
+!s100 9I@3RQT88L]@kiYG]lVeJ2
+R1
+IF2NmD40WQ3]=`WU:J2CHU1
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/RegisterTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/RegisterTB.v
+!i122 40
+R9
+R5
+r1
+!s85 0
+31
+R16
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/RegisterTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/RegisterTB.v|
+!i113 1
+R7
+R8
+n@register@t@b
+vSignExtend
+R14
+!i10b 1
+!s100 DOM:z<lgl4U>ZzFoFkDb>0
+R1
+I>MG7iBPOTO^Raf5YIgESB2
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/SignExtend.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/SignExtend.v
+!i122 41
+L0 1 8
+R5
+r1
+!s85 0
+31
+R16
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/SignExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/SignExtend.v|
+!i113 1
+R7
+R8
+n@sign@extend
+vSignExtendTB
+R14
+!i10b 1
+!s100 o8FcBGi`CddS4R@jOf[DG0
+R1
+I?kcI@F8;UYboE_c^A77lb1
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/SignExtendTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/SignExtendTB.v
+!i122 42
+R15
+R5
+r1
+!s85 0
+31
+R16
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/SignExtendTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/4/CA_CA4/modelsim/.build.uhdl/SignExtendTB.v|
+!i113 1
+R7
+R8
+n@sign@extend@t@b
